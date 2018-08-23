@@ -13,7 +13,7 @@ public static void main(String[] args) {
 	Map< Integer, Integer> map = new HashMap<>();
 	
 	/**
-	测试提交 远程
+	测试提交远程
 	*/
 	for (int i : arr) {
 		Integer num = map.get(i);
