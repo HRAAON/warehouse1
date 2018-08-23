@@ -12,6 +12,7 @@ public static void main(String[] args) {
 	int [] arr = {1,4,1,4,2,5,4,5,8,7,8,77,88,5,4,9,6,2,4,1,5};
 	Map< Integer, Integer> map = new HashMap<>();
 	
+	
 	for (int i : arr) {
 		Integer num = map.get(i);
 		//System.out.println(num);
