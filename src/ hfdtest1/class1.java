@@ -13,7 +13,8 @@ public static void main(String[] args) {
 	Map< Integer, Integer> map = new HashMap<>();
 	
 	/**
-	测试拉取远程
+	hhhh
+	
 	*/
 	for (int i : arr) {
 		Integer num = map.get(i);
